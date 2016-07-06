@@ -1,2 +1,2 @@
-# ReactOneArmedBandit
-Implementation of a One-armed bandit (slot machine) in reactJS and redux. Uses promises.
+# One-armed bandit in reactJS & redux
+Implementation of a One-armed bandit (slot machine). Uses promises.
